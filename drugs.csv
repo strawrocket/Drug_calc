@@ -1,0 +1,4 @@
+Drug,Units,Max_rate,Solute,Solvent,Conc_units,Other names,Weight,Dose_based_rate
+Levophed,mcg/kg/min,2,32,250,mg/ml, Norepinepherine,1,1
+Propofol,mg/kg/min,5,10,1,mg/ml,,1,1
+Fentanyl,mcg/hr,100,1000,10,mcg/ml,Fentanyl Citerate,0,1
